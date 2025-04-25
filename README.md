@@ -41,4 +41,4 @@ Tableau Sample - Superstore
 
 ## 📥 View Live
 
-[🔗 View on Tableau Public](#) *(https://public.tableau.com/app/profile/ray.zhou/viz/salesandrevenue_17456048121610/SalesandRevenue)*
+[🔗 View on Tableau Public](#) (https://public.tableau.com/app/profile/ray.zhou/viz/salesandrevenue_17456048121610/SalesandRevenue)
